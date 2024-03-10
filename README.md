@@ -1,2 +1,4 @@
 # bash-artifacts
-A reposistory for storing my scripting evolution's resulting artefacts.
+The scripts made assume you have cloned or moved this repository to your HOME folder. 
+
+A repository for storing my scripting evolution and resulting artefacts.
