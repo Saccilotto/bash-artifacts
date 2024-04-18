@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Author: André Sacilotto Santos
+# Date Created: 18/04/2024
+# Last Modified: 18/04/2024
+
 for x in {0..8}; 
     do 
     for i in {30..37}; 
