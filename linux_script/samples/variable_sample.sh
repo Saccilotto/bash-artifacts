@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# sample script with variables
+
 echo "demo 2"
 
 name="Student"

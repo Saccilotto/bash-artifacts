@@ -1,13 +1,14 @@
 #!/bin/bash
 
 # Author: André Sacilotto Santos
-# Date Created: 17/04/2024
-# Last Modified: 17/04/2024
+# Date Created: 18/04/2024
+# Last Modified: 18/04/2024
 
+# Description
 # This script is used to collect system information for troubleshooting purposes and user information.
 
 # Usage
-# bash system_xray.sh or ./system_xray.sh
+# bash system_xrays.sh or ./system_xray.sh after (chmod +x) or (chmod 744)
 
 echo "System X-Ray"
 echo "Gathering system information..."

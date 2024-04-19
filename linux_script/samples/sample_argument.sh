@@ -5,7 +5,8 @@
 # Last Modified: 17/04/2024
 
 # Description
-# This is a script for providing an example on argument passing for bash scripts
+# This is a script for providing an example on argument passing for bash scripts and also 
+# acquiring the max number of arguments through "#@"
 
 # Usage
 # sample_argument.sh <arg1> <arg2>
